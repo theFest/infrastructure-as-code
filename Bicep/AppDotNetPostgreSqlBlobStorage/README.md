@@ -1,0 +1,1 @@
+# Application Service, Application Insights, PostgreSQL Server, PostgreSQL Database and Blob Storage
