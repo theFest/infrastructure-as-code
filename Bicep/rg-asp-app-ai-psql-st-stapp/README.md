@@ -1,1 +1,24 @@
-## AppService | App Service Plan | Application Insights | PostgreSQL | BlogStorage | Static Web App
+
+# General information
+- Infrastructure as Code
+Bicep Resource inside Modules
+Azure CLI for deployment / execution
+PowerShell for parameterized function 
+
+
+## Resources included
+
+```bash
+Application Service
+Application Service Plan
+Application Insights
+PostgreSQL Server
+PostgreSQL Database
+Blob Storage
+Static Web App
+```
+    
+## Usage
+
+Either use script, which you can customize by your parameters or '.exe' for demo purposes.
+
