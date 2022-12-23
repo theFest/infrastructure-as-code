@@ -1,0 +1,1 @@
+## AppService | App Service Plan | Application Insights | PostgreSQL | BlogStorage | Static Web App
