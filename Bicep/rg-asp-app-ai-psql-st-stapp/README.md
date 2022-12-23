@@ -1,9 +1,8 @@
 
-# General information
-- Infrastructure as Code
-Bicep Resource inside Modules
-Azure CLI for deployment / execution
-PowerShell for parameterized function 
+# General information - IaC
+-Bicep Resource inside Modules
+-Azure CLI for deployment / execution
+-PowerShell for parameterized function 
 
 
 ## Resources included
