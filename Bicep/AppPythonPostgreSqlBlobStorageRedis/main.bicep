@@ -2,7 +2,7 @@ targetScope = 'subscription'
 
 // If an environment is set up (dev, test, prod...), it is used in the application name
 param environment string = 'dev'
-param applicationName string = 'demo-1561-5711'
+param applicationName string = 'demo-7658-7723'
 param location string = 'westeurope'
 var instanceNumber = '001'
 
