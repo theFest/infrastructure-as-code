@@ -1,0 +1,1 @@
+curl "https://nubesgen.com/docker-rg-webf-no_db-vnetpublic-ai-kv-redis-cosmos-gitops.tgz?iactool=TERRAFORM&region=westeurope&application=APP_SERVICE.free&runtime=DOCKER&database=NONE.basic&addons=application_insights,key_vault,storage_blob,redis,cosmosdb_mongodb&gitops=true" | tar -xzvf -
