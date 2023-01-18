@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri "https://nubesgen.com/test.zip?iactool=TERRAFORM&region=westeurope&application=APP_SERVICE.free&runtime=DOTNET&database=NONE.free&network=VIRTUAL_NETWORK" -OutFile test.zip; Expand-Archive test.zip -DestinationPath '.' -Force; Remove-Item test.zip
