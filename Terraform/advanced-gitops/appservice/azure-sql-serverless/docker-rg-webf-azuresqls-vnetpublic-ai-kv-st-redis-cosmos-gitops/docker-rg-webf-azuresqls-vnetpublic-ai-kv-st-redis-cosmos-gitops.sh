@@ -1,0 +1,1 @@
+curl httpsnubesgen.comtest.tgziactool=TERRAFORM&region=westeurope&application=APP_SERVICE.free&runtime=DOTNET&database=NONE.free&network=VIRTUAL_NETWORK  tar -xzvf -
