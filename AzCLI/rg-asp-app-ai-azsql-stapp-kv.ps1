@@ -1,4 +1,4 @@
-<# !!! WORKING | ver 0.1 !!! #>
+<# Working Version #>
 
 <# RG App Service plan + Web App + App Insights + SQL Server + SQL Database + KeyVault with connections #>
 
